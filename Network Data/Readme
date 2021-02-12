@@ -1,0 +1,6 @@
+Reuters terror news network Days.net in Pajek's format obtained from the CRA networks produced by Steve Corman and Kevin Dooley at Arizona State University.
+Please acknowledge this when publishing results based on these data.
+
+The Reuters terror news network is based on all stories released during 66 consecutive days by the news agency Reuters concerning the September 11 attack on the U.S., beginning at 9:00 AM EST 9/11/01. The vertices of a network are words (terms); there is an edge between two words iff they appear in the same text unit (sentence). The weight of an edge is its frequency. The network has n = 13332 vertices (different words in the news) and m = 243447 edges, 50859 with value larger than 1. There are no loops in the network.
+
+
